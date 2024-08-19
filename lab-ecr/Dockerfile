@@ -7,3 +7,5 @@
  EXPOSE 80
  # Iniciando o serviço do apache na execução do container
  CMD ["httpd", "-D", "FOREGROUND"]
+
+ # Expose a porta 80
