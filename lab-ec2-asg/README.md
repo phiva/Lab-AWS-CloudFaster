@@ -1,3 +1,6 @@
+Amazon EC2 Auto Scaling - Implementando e acompanhando o lançamento de Instâncias EC2
+
+
 Nesse laboratório, acessei  o console de gerenciamento da AWS, onde criei um modelo de execução, configurei um grupo de destino, implementei um Application Load Balancer, configurei um grupo Auto Scaling e testei o seu funcionamento.
 
 
